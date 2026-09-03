@@ -63,4 +63,4 @@ Or perhaps using the "iron triangle" proposition of software development. You ca
 
 * Are there truly tasks that have no value? Can they be automated deterministically cheaply and fast?
 
-* Learning takes mental effort and friction (citation needed)
+* Learning takes [mental effort and friction](https://www.makeitstick.com/)
