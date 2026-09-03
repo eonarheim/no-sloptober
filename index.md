@@ -29,7 +29,7 @@ Onarheim's Law:
 
 In the words of my toddler "I do by MYSELF"
 
-[^3] Meat Proxy is a term used for people that launder their work conversations through a chatbot and apply no thought or no/minimal editorial review to the output and posting it back to you. I find it personally EXTREMELY disrespectful, I'd prefer no response at all.
+[^3]: Meat Proxy is a term used for people that launder their work conversations through a chatbot and apply no thought or no/minimal editorial review to the output and posting it back to you. I find it personally EXTREMELY disrespectful, I'd prefer no response at all.
 
 ## What? 
 
