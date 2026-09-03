@@ -1,13 +1,14 @@
 {
+  "private": true,
   "name": "no-sloptober",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
   "description": "",
   "type": "module",
   "dependencies": {
