@@ -20,12 +20,16 @@ Onarheim's Law:
 ## Why? 
 
 1. Even if you find LLMs useful, it is useful to know how to do things yourself and train your skills. 
+2. Stretch your brain, don't be a ["Meat Proxy"](https://dontpastetheai.com/) [^3]
+   - Do you like reading LLMs PR descriptions?
 2. Gain perspective by seeing what was good or bad when using LLMs.
 3. Learn something new! LLMs are well documented to make learning difficult for humans.
 4. Write a blog post about your experiences in No Sloptober good or bad, I want to know what you learned about yourself!
 5. **Bragging rights? Honor and glory!?** Post **#no-sloptober on socials**. Screenshot your lack of usage in claude or whatever.
 
 In the words of my toddler "I do by MYSELF"
+
+[^3] Meat Proxy is a term used for people that launder their work conversations through a chatbot and apply no thought or no/minimal editorial review to the output and posting it back to you. I find it personally EXTREMELY disrespectful, I'd prefer no response at all.
 
 ## What? 
 
