@@ -2,7 +2,9 @@
 
 This October we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind's health. This is not a judgement of others, but a personal challenge to you.
 
-Nuance is hard (if not impossible on the internet), and so is balance. Develop your own sense of nuance around LLMs what they're good for what they're bad for.
+[Nuance is hard](https://www.youtube.com/watch?v=kul0z3OTmVM) (if not impossible on the internet), and so is balance. 
+
+Develop your own sense of nuance around LLMs what they're good for what they're bad for.
 
 ## Suggested "hard core" 🤘 approach [^1] [^2]:
 
@@ -27,7 +29,7 @@ Onarheim's Law:
 3. [Mental health](https://www.youtube.com/watch?v=iPUn1Fnfn0k) [benefits](https://youtu.be/2ZU3j4GQ4K8?si=dZBp-Aocj9478Zqb), and avoiding [ai psychosis](https://www.youtube.com/watch?v=3HeyZIqlGpo)
 4. Gain perspective by seeing what was good or bad when using LLMs.
 5. Learn something new! LLMs are well documented to make learning difficult for humans.
-6. Security, agents are known for wild choices, and installing malware by accident
+6. Security - agents are known for wild security choices, and installing malware by accident (looking at you Shai Hulud)
 6. Write a blog post about your experiences in No Sloptober good or bad, I want to know what you learned about yourself!
 7. **Bragging rights? Honor and glory!?** Post **#no-sloptober on socials**. Screenshot your lack of usage in claude or whatever.
 
