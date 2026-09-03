@@ -10,4 +10,6 @@ export default function (eleventyConfig) {
 	};
 
 	eleventyConfig.setLibrary("md", markdownIt(options).use(footnote_plugin));
+
+  eleventyConfig.addPassthroughCopy("main.css");
 };

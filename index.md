@@ -1,3 +1,7 @@
+---
+layout: layout.njk
+---
+
 # No Sloptober
 
 This October we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind's health. This is not a judgement of others, but a personal challenge to you.
