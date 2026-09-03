@@ -2,6 +2,8 @@
 
 This October we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind's health. This is not a judgement of others, but a personal challenge to you.
 
+Nuance is hard (if not impossible on the internet), and so is balance. Develop your own sense of nuance around LLMs what they're good for what they're bad for.
+
 ## Suggested "hard core" 🤘 approach [^1] [^2]:
 
 No AI/LLM tools whatsoever at home or work, do it the hard (core) way.
@@ -44,14 +46,14 @@ In the words of my toddler "I do by MYSELF"
 
 ## Convince your Manager:
 
-"Hey <manager name here>, let's see if we can do some cost risk analysis around our LLM usage. Let's experiment with reduced/no LLM usage and measure our teams/orgs velocity, incident rate, and cost and see if there are any potential savings or risk mitigations we could enact in the future"
+"Hey <manager name here>, let's see if we can do some cost risk analysis around our LLM usage. Let's experiment with reduced/no LLM usage and measure our teams/orgs velocity, incident rate, and cost and see if there are any potential savings or risk mitigations we could enact in the future."
 
 ## Convince yourself:
 
-Find joy again in your craft
+* Find joy again in your craft
 
-Find the flow state again
+* Find the flow state again
 
-Understand where your own gaps are in your own knowledge and capabality, and are you okay delegating those?
+* Understand where your own gaps are in your own knowledge and capabality, and are you okay delegating those?
 
-Learning takes mental effort and friction (citation needed)
+* Learning takes mental effort and friction (citation needed)
