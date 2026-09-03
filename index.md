@@ -56,4 +56,6 @@ In the words of my toddler "I do by MYSELF"
 
 * Understand where your own gaps are in your own knowledge and capabality, and are you okay delegating those?
 
+* Are there truly tasks that have no value? Can they be automated deterministically cheaply and fast?
+
 * Learning takes mental effort and friction (citation needed)
