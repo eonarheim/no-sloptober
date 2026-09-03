@@ -48,6 +48,8 @@ In the words of my toddler "I do by MYSELF"
 
 "Hey <manager name here>, let's see if we can do some cost risk analysis around our LLM usage. Let's experiment with reduced/no LLM usage and measure our teams/orgs velocity, incident rate, and cost and see if there are any potential savings or risk mitigations we could enact in the future."
 
+Or perhaps using the "iron triangle" proposition of software development. You can have things good, cheap, or fast... pick two.
+
 ## Convince yourself:
 
 * Find joy again in your craft
