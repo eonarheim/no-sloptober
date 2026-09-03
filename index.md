@@ -22,10 +22,11 @@ Onarheim's Law:
 1. Even if you find LLMs useful, it is useful to know how to do things yourself and train your skills. 
 2. Stretch your brain, don't be a ["Meat Proxy"](https://dontpastetheai.com/) [^3]
    - Do you like reading LLMs PR descriptions?
-2. Gain perspective by seeing what was good or bad when using LLMs.
-3. Learn something new! LLMs are well documented to make learning difficult for humans.
-4. Write a blog post about your experiences in No Sloptober good or bad, I want to know what you learned about yourself!
-5. **Bragging rights? Honor and glory!?** Post **#no-sloptober on socials**. Screenshot your lack of usage in claude or whatever.
+3. [Mental health](https://www.youtube.com/watch?v=iPUn1Fnfn0k) [benefits](https://youtu.be/2ZU3j4GQ4K8?si=dZBp-Aocj9478Zqb), and avoiding [ai psychosis](https://www.youtube.com/watch?v=3HeyZIqlGpo)
+4. Gain perspective by seeing what was good or bad when using LLMs.
+5. Learn something new! LLMs are well documented to make learning difficult for humans.
+6. Write a blog post about your experiences in No Sloptober good or bad, I want to know what you learned about yourself!
+7. **Bragging rights? Honor and glory!?** Post **#no-sloptober on socials**. Screenshot your lack of usage in claude or whatever.
 
 In the words of my toddler "I do by MYSELF"
 
