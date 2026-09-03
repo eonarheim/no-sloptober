@@ -28,8 +28,8 @@ Onarheim's Law:
 ## Why? 
 
 1. Even if you find LLMs useful, it is useful to know how to do things yourself and train your skills. 
-2. Stretch your brain, don't be a ["Meat Proxy"](https://dontpastetheai.com/) [^3]
-   - Do you like reading LLMs PR descriptions?
+2. Stretch your brain, don't be a ["Meat Proxy"](https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/) [^3]
+   - Do you like reading [LLMs PR descriptions?](https://dontpastetheai.com/)
 3. [Mental health](https://www.youtube.com/watch?v=iPUn1Fnfn0k) [benefits](https://youtu.be/2ZU3j4GQ4K8?si=dZBp-Aocj9478Zqb), and avoiding [ai psychosis](https://www.youtube.com/watch?v=3HeyZIqlGpo)
 4. Gain perspective by seeing what was good or bad when using LLMs.
 5. Learn something new! LLMs are well documented to make learning difficult for humans.
