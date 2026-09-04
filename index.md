@@ -1,10 +1,12 @@
 ---
 layout: layout.njk
+description: This October 2027 we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind! This is not a judgement of others, but a personal challenge to you.
+heroImage: /images/black-logo.png
 ---
 
 # No Sloptober
 
-This October we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind's health. This is not a judgement of others, but a personal challenge to you.
+This October we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind! This is not a judgement of others, but a personal challenge to you.
 
 [Nuance is hard](https://www.youtube.com/watch?v=kul0z3OTmVM) (if not impossible on the internet), and so is balance. 
 

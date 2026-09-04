@@ -6,6 +6,27 @@ title: No Sloptober
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ description if description else ''}}">
+    <meta property="og:site_name" content="No Sloptober">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description if description else ''}}">
+    <!-- 1200 x 630 -->
+    <meta property="og:image" content="{{ heroImage }}">
+    <meta property="og:url" content="https://no-sloptober.com">
+    <meta property="og:type" content="website">
+
+    <meta property="twitter:title" content="{{ title }}">
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:url" content="https://no-sloptober.com">
+    <meta property="twitter:image" content="{{ heroImage if heroImage else 'https://erikonarheim.com/images/blocks2.png'}}">
+    <meta property="twitter:description" content="{{ description if description else ''}}">
+    <meta property="twitter:site" content="@ErikOnarheim">
+    <meta property="twitter:creator" content="@ErikOnarheim">
+
+    <link rel="canonical" href="https://erikonarheim.com/">
+    <link rel="shortcut icon" href="/favicon.png" type="image/png">
+    <link rel="icon" href="/favicon.png" type="image/png">
+
     <link rel="stylesheet" href="/main.css">
     <title>{{ title }}</title>
   </head>
