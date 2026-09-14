@@ -6,6 +6,8 @@ heroImage: /images/no-sloptober-final.png
 
 # No Sloptober
 
+![no sloptober written over a crossed out robot](./images/no-sloptober-final-transparent.png)
+
 This October we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind! This is not a judgement of others, but a personal challenge to you.
 
 [Nuance is hard](https://www.youtube.com/watch?v=kul0z3OTmVM) (if not impossible on the internet), and so is balance. 
