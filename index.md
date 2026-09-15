@@ -17,10 +17,10 @@ Develop your own sense of nuance around LLMs what they're good for what they're 
 ## Suggested "hard core" 🤘 approach [^1] [^2]:
 
 No AI/LLM tools whatsoever at home or work, do it the hard (core) way.
-- No AI Search summary (turn off here)
+- No AI Search summary ([turn off here](https://www.zdnet.com/article/how-to-remove-ai-overviews-from-google-search/))
 - No Chat Bot chats/search
 - No Code Review
-- No Claude/OpenCode/Pi/Agents/Models etc.
+- No Claude/<wbr>OpenCode/<wbr>Pi/<wbr>Agents/<wbr>Models etc.
 
 Onarheim's Law:
 
