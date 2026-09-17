@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-description: This October 2027 we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind! This is not a judgement of others, but a personal challenge to you.
+description: This October 2026 we challenge you to abstain from LLM based tools entirely. Think of this as a fast for your mind! This is not a judgement of others, but a personal challenge to you.
 heroImage: /images/no-sloptober-final.png
 ---
 
